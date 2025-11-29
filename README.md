@@ -59,6 +59,8 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+## Integrated Database in Supabase
+click cloud to see the database tables 
 
 ## How can I deploy this project?
 
